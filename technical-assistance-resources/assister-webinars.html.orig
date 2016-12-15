@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<head>
+<title>Assister webinars | Marketplace.CMS.Gov</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="" />
+
+
+<!-- Fav and touch icons -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/resources/images/icons/HIM-favicon-114px.ico">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/resources/images/icons/HIM-favicon-114px.ico">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/resources/images/icons/HIM-favicon-72px.ico">
+<link rel="apple-touch-icon-precomposed" href="/resources/images/icons/HIM-favicon-32px.ico">
+<link rel="shortcut icon" href="/resources/images/icons/HIM-favicon-16px.ico">
+<link href="//assets.cms.gov/resources/global/css/lib/bootstrap.css" rel="stylesheet" type="text/css">
+<link href='https://fonts.googleapis.com/css?family=Bree+Serif|Source+Sans+Pro:400,900italic,900,700italic,700,600,600italic,400italic' rel='stylesheet' type='text/css'>
+<link href="/resources/css/framework.css" rel="stylesheet" type="text/css">
+<link href="/resources/css/style.css" rel="stylesheet" type="text/css">
+<link href="/resources/css/bootstrap-responsive.css" rel="stylesheet" type="text/css">
+
+<script src="//tags.tiqcdn.com/utag/cmsgov/cms-marketplace/prod/utag.sync.js"></script>
+
+
+<!-- HTML5 shi/css3 media query, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+          <script src="//assets.cms.gov/Resources/Global/JS/lib/html5.js"></script>
+    <![endif]-->
+
+<!--[if gte IE 8]>
+  <link href="/resources/css/iefix.css" rel="stylesheet" type="text/css">
+<![endif]-->
+
+<!--[if lte IE 7]>  
+    <link href="/resources/css/iefix.css" rel="stylesheet" type="text/css">
+ <![endif]-->  
+ 
+	
+	                
+    			<link rel="canonical" href="https://marketplace.cms.gov/technical-assistance-resources/assister-webinars.html" />
+
+
+</head>
+<body role="document">
+<script type="text/javascript">
+    (function(a,b,c,d){
+    a='//tags.tiqcdn.com/utag/cmsgov/cms-marketplace/'+(/^marketplace\.cms\.gov/i.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+    b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+    a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+</script>
+
+
+<div class="skipnav"><a href="#main_content" title="Skip Navigation" id="skipNavigation">Skip Navigation</a></div>
+<div id="page" class="container" data-role="page">
+  <header data-role="header" role="banner">
+      <div class="row-fluid show-grid">
+        <div class="span6">
+          <div class="hd" data-role="header">
+            <div id="headerlogo"> <a title="CMS.gov Health Insurance Marketplace" href="/" id="headerlogo-link"> <img alt="CMS.gov Health Insurance Marketplace" src="/resources/images/logo/logo-header.png"> </a> </div>
+          </div>
+        </div>
+        <div class="span6">
+          <div class="min-nav">
+         <ul class="toolbox_body">
+              <li title="Go to CMS.gov"> <a href="http://www.cms.gov/">CMS.gov</a></li>
+              <li> <a title="About CMS.gov" href="http://www.cms.gov/About-CMS/About-CMS.html">About CMS</a> </li>
+              <li > <a title="FAQ" href="https://questions.cms.gov/faq.php?id=5005&rtopic=1993">FAQs</a> </li> 
+			  <li> <a class="print" title="Print" href="/">Print</a> </li>       
+              <li class="addthis_button no-border">  <a href="http://www.addthis.com/bookmark.php?v=300&amp;pubid=ra-4da5b2c47a9f9bd7" class="share ">Share</a> </li>
+
+            </ul>
+          </div>
+          <div class="input-append">
+            <form class="form-search" onsubmit="return submitQuery()">			
+              <div class="input-append">
+                <label class="HiddenText" for="query-input">Search marketplace.cms.gov</label>
+                <input id="query-input" type="text" class="search-query" title="type search term here" placeholder="Type search term here" autocomplete="off">
+                <button type="submit" class="btn">Search</button>
+              </div>
+            </form>
+          </div>
+          <div class="healthcare-link"><a id="headerlearnlink" href="https://public.govdelivery.com/accounts/USCMS/subscriber/new">Get email updates</a></div>
+        </div>
+      </div>   
+  </header>
+  
+    
+	 
+
+
+
+
+
+
+	 
+	  <nav id="nav" class="navbar" data-role="navbar" role="navigation" aria-labelledby="navheading2">
+        <div class="navbar-inner">
+          <div class="container">
+            <h2 id="navheading2" class="HiddenText">Main Menu</h2>
+					<ul class="nav">
+                                                        <li><a href="/applications-and-forms/applications-and-forms.html">Applications, Forms, &   Notices       </a></li>
+                  <li><a href="/technical-assistance-resources/technical-assistance-resources.html">Technical Assistance Resources</a></li>
+                  <li><a href="/outreach-and-education/outreach-and-education.html">Outreach & Education</a></li>
+                 </ul>
+            </div>
+        </div>
+      </nav>
+      <!-- /.navbar --> 
+
+     <div class="breadcrumb"><ul> 
+
+
+
+
+
+
+
+
+
+       
+	     &#160;&#160;&#160;
+            <li><a href="/index.html">Health Insurance Marketplace home</a> <span class="divider">></span></li>
+                                            
+    Technical Assistance Resources
+                                                                                   
+    </ul> </div>
+ 
+    
+ <div id="main_content" data-role="content"> 
+	 <div class="row-fluid show-grid">
+       <div class="span10"> 
+		<h1>Assister webinars</h1>
+		
+		<div class="callout"></div>
+		
+		
+<p>CMS hosts webinars for assisters that offer updates, tips, summaries of specific policies, and information about outreach and enrollment initiatives. The webinar invitation is sent out via email and a recording of the webinar is posted online. To sign up for the CMS Weekly Assister Webinar invitations, please send a request to the Assister Listserv inbox (ASSISTERLISTSERV@cms.hhs.gov) and write &ldquo;Add to listserv&rdquo; in the subject line. Please include the email address that you would like to add to the listserv in the body of your email.</p>
+<p><br /> Content in the Assister Newsletters and webinars is relevant to your work if you are a Navigator, non-Navigator assistance personnel (&ldquo;in-person assister&rdquo;), or certified application counselor (collectively, an assister) in a state with a Federally-facilitated Marketplace or State Partnership Marketplace. Please note that the information presented in the Assister Webinars is informal, technical assistance for assisters and is not intended as official CMS guidance. Webinar content reflects policy and operations at the date of publication, and generally has not been updated to reflect any changes subsequent to the date of publication. Assisters should continue to refer to the applicable statutes and regulations, and to formal CMS guidance, for complete and current information about the requirements that apply to their work.</p>
+<h4>8/5/16 Assister Webinar</h4>
+<p>Topics include:</p>
+<ul>
+<li><a href="https://marketplace.cms.gov/technical-assistance-resources/medicaid-chip-pdm.pdf">Marketplace Updates; Medicaid/CHIP Periodic Data Matching (Medicaid/CHIP PDM)</a></li>
+<li><a href="https://goto.webcasts.com/starthere.jsp?ei=1105085">Video and Audio Slideshow Presentation</a></li>
+<li><a href="/technical-assistance-resources/assister-webinar-transcript-august-5-2016.PDF">Written Transcript</a></li>
+</ul>
+<h4>7/22/16 Assister Webinar</h4>
+<p>Topics include:</p>
+<ul>
+<li>Marketplace Updates; Outreach &amp; Enrollment Practices: Engaging the Homeless Population</li>
+<li><a href="https://goto.webcasts.com/starthere.jsp?ei=1105082">Video and Audio Slideshow Presentation</a></li>
+<li><a href="/technical-assistance-resources/assister-webinar-transcript-july-22-2016.pdf">Written Transcript</a></li>
+</ul>
+<h4>7/8/16 Assister Webinar</h4>
+<p>Topics include:</p>
+<ul>
+<li>Marketplace Updates; Tips and Resources to Help Enroll People Living with HIV in Health Insurance; New Medicaid Guidance, Definitions, and Questions &amp; Answers on Justice-Involved Consumers Transitioning from Incarceration to their Communities</li>
+<li><a href="https://goto.webcasts.com/starthere.jsp?ei=1110544">Video and Audio Slideshow Presentation</a></li>
+<li><a href="/technical-assistance-resources/assister-webinar-transcript-0782016.pdf">Written Transcript</a></li>
+</ul>
+<h4>7/6/16 Assister Webinar</h4>
+<p>Topics include:</p>
+<ul>
+<li><a href="https://marketplace.cms.gov/technical-assistance-resources/training-materials/training.html">Special 2017 Assister Certification</a></li>
+<li><a href="https://goto.webcasts.com/starthere.jsp?ei=1105950">Video and Audio Slideshow Presentation</a></li>
+<li><a href="/technical-assistance-resources/assister-webinar-transcript-070616.pdf">Written Transcript</a></li>
+</ul>
+<h4>6/15/16 Assister Webinar</h4>
+<p>Topics include:</p>
+<ul>
+<li><a href="/technical-assistance-resources/special-enrollment-confirmation-process_june-2016_062916_final_0618_ck508-mm.pdf">Marketplace Updates; Special Enrollment Period (SEP) Verification</a></li>
+<li><a href="https://goto.webcasts.com/starthere.jsp?ei=1105943">Video and Audio Slideshow Presentation</a></li>
+<li><a href="/technical-assistance-resources/061515-webinar-transcript-508.pdf">Written Transcript</a></li>
+</ul>
+<h4>6/10/16 Assister Webinar</h4>
+<p>Topics include:</p>
+<ul>
+<li><a href="http://out2enroll.org/out2enroll-june-2016-cciio-webinar-slides/">Reaching and Assisting Lesbian, Gay, Bisexual, and Transgender Communities</a></li>
+<li><a href="https://goto.webcasts.com/starthere.jsp?ei=1104566">Video and Audio Slideshow Presentation</a></li>
+<li><a href="/technical-assistance-resources/assister-webinar-transcript-061016.pdf">Written Transcript</a> &nbsp;</li>
+</ul>
+<h4>5/25/16 Assister Webinar</h4>
+<p>Topics include:</p>
+<ul>
+<li>Marketplace Updates; <a href="https://marketplace.cms.gov/technical-assistance-resources/sep-overview-for-the-ffm_508-mm.PDF">Special Enrollment Period (SEP) Overview for Assisters</a>; The Issuer Rate Review Process</li>
+<li><a href="https://goto.webcasts.com/starthere.jsp?ei=1100662">Video and Audio Slideshow Presentation</a></li>
+<li><a href="/technical-assistance-resources/assister-webinar-transcript-052516.pdf">Written Transcript</a></li>
+</ul>
+<h4>5/13/16 Assister Webinar</h4>
+<p>Topics include:</p>
+<ul>
+<li>Marketplace Updates; <a href="https://marketplace.cms.gov/technical-assistance-resources/irs-data-recheck.pdf">IRS Data Recheck of Failure to File and Reconcile 2014 APTC Population</a>; <a href="https://marketplace.cms.gov/technical-assistance-resources/pdm-identifying-notifying-consumers-in-marketplace.PDF">Periodic Data Matching Overview and Updates</a></li>
+<li><a href="https://goto.webcasts.com/starthere.jsp?ei=1100659">Video and Audio Slideshow Presentation</a></li>
+<li><a href="/technical-assistance-resources/assister-webinar-transcript-051316.pdf">Written Transcript</a></li>
+</ul>
+<h4>4/29/16 Assister Webinar</h4>
+<p>Topics include:</p>
+<ul>
+<li>Marketplace Updates; <a href="https://marketplace.cms.gov/technical-assistance-resources/medicaid-coverage-gap-sep.pdf">Medicaid Coverage Gap Special Enrollment Period Overview</a>; <a href="https://marketplace.cms.gov/outreach-and-education/downloads/coverage-to-care.pdf">From Coverage to Care: Helping the Newly Insured Connect to Care</a>; <a href="https://marketplace.cms.gov/technical-assistance-resources/assisting-victims-of-domestic-violence.PDF">Complex Cases: Assisting Victims of Domestic Violence</a></li>
+<li><a href="https://goto.webcasts.com/starthere.jsp?ei=1097422">Video and Audio Slideshow Presentation</a></li>
+<li><a href="/technical-assistance-resources/assister-webinar-transcript-042916.pdf">Written Transcript</a></li>
+</ul>
+<h4>4/15/16 Assister Webinar</h4>
+<p>Topics include:</p>
+<ul>
+<li>Marketplace Updates; <a href="https://marketplace.cms.gov/technical-assistance-resources/internal-claims-and-appeals.PDF">Internal Claims and Appeals and the External Review Processes Overview</a>; Consumer Options to Cancel or Terminate Plans and Report Changes</li>
+<li><a href="https://goto.webcasts.com/starthere.jsp?ei=1097420">Video and Audio Slideshow Presentation</a></li>
+<li><a href="/technical-assistance-resources/assister-webinar-transcript-04152016.pdf">Written Transcript</a></li>
+</ul>
+<h4>4/1/16 Assister Webinar</h4>
+<p>Topics include:</p>
+<ul>
+<li>Marketplace Updates; <a href="/technical-assistance-resources/premium-tax-credit-and-shared-responsibility.pdf">Healthcare-related Tax Provisions affecting Individuals and Families</a>; <a href="https://marketplace.cms.gov/technical-assistance-resources/eligibility-and-enrollment-resources.html">Complex Case: Evaluating Employer-Sponsored Coverage</a></li>
+<li><a href="https://goto.webcasts.com/starthere.jsp?ei=1097416">Video and Audio Slideshow Presentation</a></li>
+<li><a href="/technical-assistance-resources/assister-webinar-transcript-040116.pdf">Written Transcript</a></li>
+</ul>
+<h4>3/18/16 Assister Webinar</h4>
+<p>Topics include:</p>
+<ul>
+<li>Marketplace Updates; Tax Season Updates; <a href="https://marketplace.cms.gov/technical-assistance-resources/benefit-and-payment-parameters.pdf">Overview of the Final Notice of Benefit and Payment Parameters for 2017</a>; <a href="https://marketplace.cms.gov/technical-assistance-resources/complex-scenarios-transitioning-from-marketplace-plan.pdf">Complex Case &ndash; Avoiding Gaps in Coverage: Transitioning from a Marketplace Plan to Other Health Coverage</a></li>
+<li><a href="https://goto.webcasts.com/starthere.jsp?ei=1097405">Video and Audio Slideshow Presentation</a></li>
+<li><a href="/technical-assistance-resources/assister-webinar-transcript-031816.pdf">Written Transcript</a></li>
+</ul>
+<h4>3/4/16 Assister Webinar</h4>
+<p>Topics include:</p>
+<ul>
+<li>Marketplace Updates; <a href="/technical-assistance-resources/helping-consumers-during-tax-season.pdf">Assister Approaches to Helping Consumers During Tax Season</a>; Exemptions Explainers</li>
+<li><a href="https://goto.webcasts.com/starthere.jsp?ei=1088956">Video and Audio Slideshow Presentation</a></li>
+<li><a href="/technical-assistance-resources/assister-webinar-transcript-03042016.pdf">Written Transcript</a></li>
+</ul>
+<h4>2/19/16 Assister Webinar</h4>
+<p>Topics include:</p>
+<ul>
+<li>Marketplace Updates; <a href="/technical-assistance-resources/marketplace-eligibility-appeals.PDF">Understanding Marketplace Eligibility Appeals</a></li>
+<li><a href="https://goto.webcasts.com/starthere.jsp?ei=1088955">Video and Audio Slideshow Presentation</a></li>
+<li><a href="/technical-assistance-resources/assister-webinar-transcript-feb-19-2016.pdf">Written Transcript</a></li>
+</ul>
+<h4>2/5/16 Assister Webinar</h4>
+<p>Topics include:</p>
+<ul>
+<li>Marketplace Updates; <a href="https://marketplace.cms.gov/technical-assistance-resources/assisters-after-enrollment.pdf">Open Enrollment and Beyond: The Role of Assisters in the Federally-facilitated Marketplaces (FFMs) After Open Enrollment</a>; <a href="/technical-assistance-resources/consumer-authorization-and-handling-pii.pdf">Obtaining Consumer Authorization and Handling Consumers&rsquo; Personally Identifiable Information (PII) in the Federally-facilitated Marketplace (FFM)</a></li>
+<li><a href="https://goto.webcasts.com/starthere.jsp?ei=1088953">Video and Audio Slideshow Presentation</a></li>
+<li><a href="/technical-assistance-resources/assister-webinar-transcript-020516.pdf">Written Transcript</a></li>
+</ul>
+<h4>1/29/16 Assister Webinar</h4>
+<p>Topics include:</p>
+<ul>
+<li>Marketplace Updates;&nbsp;<a href="https://marketplace.cms.gov/technical-assistance-resources/tax-overview-for-assisters.pdf">Taxes and the Health Insurance Marketplace &ndash; Overview for Marketplace Assisters</a>; <a href="https://marketplace.cms.gov/technical-assistance-resources/shared-responsibility-payment-exemption.pdf">Individual Shared Responsibility Fee Exemptions Overview</a></li>
+<li><a href="https://goto.webcasts.com/starthere.jsp?ei=1091495">Video and Audio Slideshow Presentation</a></li>
+<li><a href="/technical-assistance-resources/assister-webinar-transcript-012916.pdf">Written Transcript</a></li>
+</ul>
+<h4>1/8/16 Assister Webinar</h4>
+<p>Topics include:</p>
+<ul>
+<li>Marketplace Updates; <a href="http://www.samhsa.gov/sites/default/files/samhsa-presentation-for-cciio-webinar-to-navigators-and-assisters.pdf">Health Insurance Enrollment: Assisting Consumers with Behavioral Health Conditions</a> &nbsp;(in collaboration with SAMHSA); <a href="/technical-assistance-resources/complex-cases-data-matching.pdf">Complex Case: Helping Consumers Resolve Data Matching Issues (DMIs)</a></li>
+<li><a href="https://goto.webcasts.com/starthere.jsp?ei=1085463">Video and Audio Slideshow Presentation</a></li>
+<li><a href="/technical-assistance-resources/assister-webinar-transcript-010816.pdf">Written Transcript</a></li>
+</ul>
+<h4>12/18/15 Assister Webinar</h4>
+<p>Topics include:</p>
+<ul>
+<li>Marketplace Updates (including <a href="/technical-assistance-resources/tax-season-kickoff.pdf">2015 Tax Season Kickoff</a> ); <a href="http://www.healthlaw.org/publications/browse-all-publications/MAGI-101-Presentation#.VqYYo3me3IU">Modified Adjusted Gross Income (MAGI) 101</a>; <a href="/technical-assistance-resources/immigrants-with-income-under-100-percent-fpl.pdf">Update to FFM Functionality for Immigrants with Incomes Under 100% FPL</a> ; <a href="/technical-assistance-resources/resolve-data-match-issues.pdf">Tips to Resolve Outstanding Data Matching Issues (Inconsistencies)</a></li>
+<li><a href="https://goto.webcasts.com/starthere.jsp?ei=1085462">Video and Audio Slideshow Presentation</a></li>
+<li><a href="/technical-assistance-resources/assister-webinar-transcript-121815.pdf">Written Transcript</a></li>
+</ul>
+<h4>12/4/15 Assister Webinar</h4>
+<p>Topics include:</p>
+<ul>
+<li>Marketplace Updates; <a href="https://marketplace.cms.gov/technical-assistance-resources/training-materials/previewing-plans-and-prices.pptx">Previewing Plans &amp; Prices on HealthCare.gov</a>; <a href="https://marketplace.cms.gov/technical-assistance-resources/application-spotlight-income.pdf">Application Spotlight: Income</a>; <a href="http://www.nationaldisabilitynavigator.org/wp-content/uploads/presentations/2015-12-04_NDNRC_CMS.pdf">Understanding the Health Coverage Needs of People with Disabilities</a></li>
+<li><a href="https://goto.webcasts.com/starthere.jsp?ei=1085460">Video and Audio Slideshow Presentation</a></li>
+<li><a href="/technical-assistance-resources/assister-webinar-transcript-dec-4-2015.pdf">Written Transcript</a></li>
+</ul>
+<h4>11/20/15 Assister Webinar</h4>
+<p>Topics include:</p>
+<ul>
+<li>Marketplace Updates; <a href="http://www.healthreformbeyondthebasics.org/wp-content/uploads/2015/11/Webinar-11-19-15_Overview-of-Immigrant-Eligibility.pdf">Overview of Immigrant Eligibility Policies and Application Processes for Health Insurance Affordability Programs</a>; &nbsp;Eligibility for Non-Citizens in Medicaid and CHIP</li>
+<li><a href="https://goto.webcasts.com/starthere.jsp?ei=1073846">Video and Audio Slideshow Presentation</a></li>
+<li><a href="/technical-assistance-resources/assister-webinar-transcript-112015.pdf">Written Transcript</a></li>
+</ul>
+<h4></h4>
+<h4><b>Please note:</b> Recordings are available for a year after the presentation date</h4>
+		
+		
+		
+						
+			<div class="downloads">			
+			<div class="row-fluid show-grid">
+				
+																  					
+		   </div>
+			   
+	</div>
+				
+		   	
+		   
+		
+				
+			
+		
+	
+		
+		
+	  </div>
+        <div class="span2">
+	
+		
+		
+		
+		</div><!--span4-->
+           
+    </div>
+	   
+ </div>
+    
+
+	   
+	    <div id="push"></div>
+</div>
+<!-- Page Container -->
+
+<footer id="footer" data-role="footer">
+  <div id="ft-group" class="container">
+    <div class="cms-address-bar">
+      <div class="row-fluid show-grid">
+        <div class="span6 hombbtn"> <img alt="CMS.gov Health Insurance Marketplace" src="/resources/images/logo/logo-footer.png"> </div>
+        
+        
+        <div class="span6">
+          <div class="social-media">
+            <ul>
+              <li class="text"> Stay connected with the Marketplace</li>
+              <li class="facebook"><a href="https://www.facebook.com/Healthcare.gov" title="Marketplace Facebook" class="footer_facebook_link"> <img alt="Marketplace Facebook" src="/resources/images/sprite-mp.png"> </a></li>
+              <li class="twitter"> <a href="https://twitter.com/HealthCareGov" class="footer_twitter_link"> <img alt="Marketplace Twitter" src="/resources/images/sprite-mp.png"> </a></li>
+              <li class="youtube"> <a href="http://www.youtube.com/playlist?list=PLaV7m2-zFKpgZDNCz7rZ3Xx7q2cDmpAm7" title="CMS YouTube" class="footer_youtube_link"> <img alt="CMS Youtube" src="/resources/images/sprite-mp.png"> </a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- cms-address-bar --> 
+      
+    </div>
+    <div class="footer-nav">
+      <div class="row-fluid show-grid">
+        <div class="span3">
+          <ul class="ft-nav">
+            
+                                                        <li><a href="/applications-and-forms/applications-and-forms.html">Applications, Forms, &   Notices       </a></li>
+                  <li><a href="/technical-assistance-resources/technical-assistance-resources.html">Technical Assistance Resources</a></li>
+                  <li><a href="/outreach-and-education/outreach-and-education.html">Outreach & Education</a></li>
+                        </ul>
+        </div>
+        <div class="span3">
+          <h2> Helpful Links</h2>
+          <ul>
+            <li> <a href="http://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/index.html" title="Site policies and important links">Site policies & important links</a> </li>
+            <li> <a href="http://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/Privacy-Policy.html" title="Privacy policy">Privacy policy</a> </li>
+            <li> <a title="Plain Language" href="//www.medicare.gov/about-us/plain-writing/plain-writing.html" class="titlelink">Plain language</a> </li>
+            <li> <a title="Freedom of Information Act" href="http://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/FOIA.html" class="titlelink">Freedom of Information Act</a> </li>
+            <li> <a title="No Fear Act" href="http://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/NoFearAct.html" class="titlelink">No Fear Act</a> </li>
+			<li> <a title="Nondiscrimination & Accessibility" href="http://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/CMSNondiscriminationNotice.html">Nondiscrimination & Accessibility</a> </li>
+            <li> <a title="HHS.gov" target="_blank" href="http://www.hhs.gov"> HHS.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="Inspector General" target="_blank" href="http://www.justice.gov/oig"> Inspector General <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="USA.gov" target="_blank" href="http://www.usa.gov"> USA.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+          </ul>
+        </div>
+        <div class="span3">
+          <h2>CMS & HHS Websites</h2>
+          <ul>
+            <li> <a title="Medicare.gov" target="_blank" href="http://www.medicare.gov"> Medicare.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="MyMedicare.gov" target="_blank" href="http://MyMedicare.gov"> MyMedicare.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="StopMedicareFraud.gov" target="_blank" href="http://www.stopmedicarefraud.gov"> StopMedicareFraud.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="Medicaid.gov" target="_blank" href="http://Medicaid.gov"> Medicaid.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="InsureKidsNow.gov" target="_blank" href="http://www.insurekidsnow.gov"> InsureKidsNow.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="HealthCare.gov" target="_blank" href="http://www.HealthCare.gov"> HealthCare.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="HHS.gov/Open" target="_blank" href="http://www.hhs.gov/open/"> HHS.gov/Open <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+          </ul>
+        </div>
+        <div class="span3"></div>
+      </div>
+    </div>
+    <!-- Footer Nav -->
+    
+    <div class="footer-address">
+      <div class="row-fluid show-grid">
+        <div class="span8">A federal government website managed by the Centers for Medicare &amp; Medicaid Services<br>
+          7500 Security Boulevard, Baltimore, MD 21244
+          <div class="vcard"> <a href="/" class="fn org url">Centers for Medicare &amp; Medicaid Services</a>
+            <div class="adr">
+              <div class="street-address"> 7500 Security Boulevard </div>
+              <span class="locality">Baltimore</span>, <abbr title="Maryland" class="region"> MD</abbr><span class="postal-code">21244</span>
+              <div class="country-name"> USA</div>
+            </div>
+          </div>
+          <!-- vcard --> 
+          
+        </div>
+        <div class="span4">
+          <div id="footer_hhs_logo"> <a id="footer_hhs_logo_link" title="Health and Human Services home page" href="http://www.hhs.gov/"> <img alt="Health and Human Services home page" src="/resources/images/logo/logo-hhs-footer.png"> </a> </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script type="text/javascript" src="/resources/js/jquery.js"></script> 
+<script type="text/javascript" src="/resources/js/modernizr.js"></script>
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script type="text/javascript" src="/resources/js/script.js"></script>
+<script type="text/javascript" src="/resources/js/jquery.validate.min.js"></script>
+
+<script type="text/javascript" src="/resources/js/additional-methods.min.js"></script>
+<script type="text/javascript" src="/resources/js/jquery.maxlenth.js"></script>
+<script type="text/javascript" src="/resources/js/cacform.js"></script>
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4da5b2c47a9f9bd7"></script>
+
+</body>
+</html>
+
