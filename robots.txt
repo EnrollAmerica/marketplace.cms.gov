@@ -1,0 +1,8 @@
+# robots.txt for http://marketplace.cms.gov
+
+User-agent: archive.org_bot
+Disallow:
+
+User-agent: *
+Disallow: /submission/
+Disallow: /submission/index.html
