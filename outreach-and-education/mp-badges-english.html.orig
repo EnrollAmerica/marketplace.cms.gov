@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<head>
+<title>Widgets & badges - English | Marketplace.CMS.Gov</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="" />
+
+
+<!-- Fav and touch icons -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/resources/images/icons/HIM-favicon-114px.ico">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/resources/images/icons/HIM-favicon-114px.ico">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/resources/images/icons/HIM-favicon-72px.ico">
+<link rel="apple-touch-icon-precomposed" href="/resources/images/icons/HIM-favicon-32px.ico">
+<link rel="shortcut icon" href="/resources/images/icons/HIM-favicon-16px.ico">
+<link href="//assets.cms.gov/resources/global/css/lib/bootstrap.css" rel="stylesheet" type="text/css">
+<link href='https://fonts.googleapis.com/css?family=Bree+Serif|Source+Sans+Pro:400,900italic,900,700italic,700,600,600italic,400italic' rel='stylesheet' type='text/css'>
+<link href="/resources/css/framework.css" rel="stylesheet" type="text/css">
+<link href="/resources/css/style.css" rel="stylesheet" type="text/css">
+<link href="/resources/css/bootstrap-responsive.css" rel="stylesheet" type="text/css">
+
+<script src="//tags.tiqcdn.com/utag/cmsgov/cms-marketplace/prod/utag.sync.js"></script>
+
+
+<!-- HTML5 shi/css3 media query, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+          <script src="//assets.cms.gov/Resources/Global/JS/lib/html5.js"></script>
+    <![endif]-->
+
+<!--[if gte IE 8]>
+  <link href="/resources/css/iefix.css" rel="stylesheet" type="text/css">
+<![endif]-->
+
+<!--[if lte IE 7]>  
+    <link href="/resources/css/iefix.css" rel="stylesheet" type="text/css">
+ <![endif]-->  
+ 
+	
+	                
+    			<link rel="canonical" href="https://marketplace.cms.gov/outreach-and-education/mp-badges-english.html" />
+
+
+</head>
+<body role="document">
+<script type="text/javascript">
+    (function(a,b,c,d){
+    a='//tags.tiqcdn.com/utag/cmsgov/cms-marketplace/'+(/^marketplace\.cms\.gov/i.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+    b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+    a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+</script>
+
+
+<div class="skipnav"><a href="#main_content" title="Skip Navigation" id="skipNavigation">Skip Navigation</a></div>
+<div id="page" class="container" data-role="page">
+  <header data-role="header" role="banner">
+      <div class="row-fluid show-grid">
+        <div class="span6">
+          <div class="hd" data-role="header">
+            <div id="headerlogo"> <a title="CMS.gov Health Insurance Marketplace" href="/" id="headerlogo-link"> <img alt="CMS.gov Health Insurance Marketplace" src="/resources/images/logo/logo-header.png"> </a> </div>
+          </div>
+        </div>
+        <div class="span6">
+          <div class="min-nav">
+         <ul class="toolbox_body">
+              <li title="Go to CMS.gov"> <a href="http://www.cms.gov/">CMS.gov</a></li>
+              <li> <a title="About CMS.gov" href="http://www.cms.gov/About-CMS/About-CMS.html">About CMS</a> </li>
+              <li > <a title="FAQ" href="https://questions.cms.gov/faq.php?id=5005&rtopic=1993">FAQs</a> </li> 
+			  <li> <a class="print" title="Print" href="/">Print</a> </li>       
+              <li class="addthis_button no-border">  <a href="http://www.addthis.com/bookmark.php?v=300&amp;pubid=ra-4da5b2c47a9f9bd7" class="share ">Share</a> </li>
+
+            </ul>
+          </div>
+          <div class="input-append">
+            <form class="form-search" onsubmit="return submitQuery()">			
+              <div class="input-append">
+                <label class="HiddenText" for="query-input">Search marketplace.cms.gov</label>
+                <input id="query-input" type="text" class="search-query" title="type search term here" placeholder="Type search term here" autocomplete="off">
+                <button type="submit" class="btn">Search</button>
+              </div>
+            </form>
+          </div>
+          <div class="healthcare-link"><a id="headerlearnlink" href="https://public.govdelivery.com/accounts/USCMS/subscriber/new">Get email updates</a></div>
+        </div>
+      </div>   
+  </header>
+  
+    
+	 
+
+
+
+
+
+
+	 
+	  <nav id="nav" class="navbar" data-role="navbar" role="navigation" aria-labelledby="navheading2">
+        <div class="navbar-inner">
+          <div class="container">
+            <h2 id="navheading2" class="HiddenText">Main Menu</h2>
+					<ul class="nav">
+                                                        <li><a href="/applications-and-forms/applications-and-forms.html">Applications, Forms, &   Notices       </a></li>
+                  <li><a href="/technical-assistance-resources/technical-assistance-resources.html">Technical Assistance Resources</a></li>
+                  <li><a href="/outreach-and-education/outreach-and-education.html">Outreach & Education</a></li>
+                 </ul>
+            </div>
+        </div>
+      </nav>
+      <!-- /.navbar --> 
+
+     <div class="breadcrumb"><ul> 
+
+
+
+
+
+
+
+
+
+       
+	     &#160;&#160;&#160;
+            <li><a href="/index.html">Health Insurance Marketplace home</a> <span class="divider">></span></li>
+                                                            
+    Outreach & Education
+                   
+    </ul> </div>
+ 
+    
+ <div id="main_content" data-role="content"> 
+	 <div class="row-fluid show-grid">
+       <div class="span10"> 
+		<h1>Widgets & badges - English</h1>
+		
+		<div class="callout"><p>Copy and paste the code of the badge you want to use into your website or blog.</p><p><a href="/outreach-and-education/mp-badges-spanish.html">Find Spanish versions of these badges&#160;</a></p></div>
+		
+				
+		
+		
+						
+			<div class="downloads">			
+			<div class="row-fluid show-grid">
+				
+																  					
+		   </div>
+			   
+	</div>
+				
+		   
+
+	
+	
+	
+     
+		
+		 <h2>&#160;</h2>
+	        
+			 			  <style>
+.span8 {
+	width:100% !important
+}
+.span4 {
+	display:none !important
+}
+.uvlink {
+	color: #fff;
+	line-height: 60px;
+	background: #2a7cb9;
+	padding: 10px 40px 10px 10px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border: 1px solid #000;
+	background: url("../images/sprite-mp.png") no-repeat scroll right -716px #153F66;
+	font-weight: bold;
+}
+.bcode {
+	border: 2px solid #CCCCCC;
+	font-size: 0.7em;
+	font-weight: normal;
+	line-height: 1.8em;
+	padding: 10px;
+	width: 300px;
+	word-break: break-all;
+}
+</style>
+
+<div class="widget">
+<div>
+  <ul class="wlist">
+  
+  
+    <li>
+      <div class="wType">120x130</div>
+      <div id="HCsquare"> <a href="https://www.healthcare.gov/?fromLoc=MPBadge&utm_medium=widget&utm_content=120x130-en&utm_campaign=hcgov" shape="rect"><img alt="Learn about the Health Insurance Marketplace &amp; your new coverage options." src="http://marketplace.cms.gov/resources/images/hcgovbadges2016/HCgovWidget_120x130-2016-general_V1.png?utm_source=cms&#38;utm_medium=banner&#38;utm_content=120x130&#38;utm_campaign=hcgov" /></a> </div>
+      
+      <a class="wlink" href="" shape="rect" target="1">Show Code</a>
+      
+      <div id="code1" style=" display: none;" class="bcode"> &lt;a href=&quot;https://www.healthcare.gov/?fromLoc=MPBadge&amp;utm_medium=widget&amp;utm_content=120x130-en&amp;utm_campaign=hcgov&quot; shape=&quot;rect&quot;&gt;&lt;img alt=&quot;Learn about the Health Insurance Marketplace &amp;amp; your new coverage options.&quot; src=&quot;HCgovWidget_120x130-2016-general_V1?utm_source=cms&amp;#38;utm_medium=banner&amp;#38;utm_conten.pngt=120x130&amp;#38;utm_campaign=hcgov&quot; /&gt;&lt;/a&gt;</div>
+    </li>
+    <li>
+      <div class="wType">150x120</div>
+      <div id="HCsquare"><a href="https://www.healthcare.gov/?fromLoc=MPBadge&utm_medium=widget&utm_content=150x120-en&utm_campaign=hcgov" shape="rect"><img alt="Have health insurance questions?" src="https://marketplace.cms.gov/resources/images/hcgovbadges2016/HCgovWidget_150x120-2016-general_V1.png?utm_source=cms&#38;utm_medium=banner&#38;utm_content=120x130&#38;utm_campaign=hcgov"/></a></div>
+      <a class="wlink" href="" shape="rect" target="2">Show Code</a>
+      <div id="code2" style=" display: none;" class="bcode">&lt;a href=&quot;https://www.healthcare.gov/?fromLoc=MPBadge&amp;utm_medium=widget&amp;utm_content=150x120-en&amp;utm_campaign=hcgov&quot; shape=&quot;rect&quot;&gt;&lt;img alt=&quot;Have health insurance questions?&quot; src=&quot;https://marketplace.cms.gov/resources/images/hcgovbadges2016/HCgovWidget_150x120-2016-general_V1.png?utm_source=cms&amp;#38;utm_medium=banner&amp;#38;utm_content=150x120&amp;#38;utm_campaign=hcgov&quot;/&gt;&lt;/a&gt;</div>
+    </li>
+    <li>
+      <div class="wType">150x120</div>
+      <div id="HCsquare"><a href="https://www.healthcare.gov/get-coverage/?fromLoc=MPBadge&utm_medium=widget&utm_content=150x120-en&utm_campaign=hcgov" shape="rect"><img alt="Learn about the Health Insurance Marketplace &amp; your new coverage options." src="https://marketplace.cms.gov/resources/images/hcgovbadges2016/HCgovWidget_150x120-2016-generalAPPLYNOW.png?utm_source=cms&#38;utm_medium=banner&#38;utm_content=120x300&#38;utm_campaign=hcgov" /></a></div>
+      <a class="wlink" href="" shape="rect" target="3">Show Code</a>
+      <div id="code3" style=" display: none;" class="bcode">&lt;a href=&quot;https://www.healthcare.gov/get-coverage/?fromLoc=MPBadge&amp;utm_medium=widget&amp;utm_content=150x120-en&amp;utm_campaign=hcgov&quot; shape=&quot;rect&quot;&gt;&lt;img alt=&quot;Learn about the Health Insurance Marketplace &amp;amp; your new coverage options.&quot; src=&quot;https://marketplace.cms.gov/resources/images/hcgovbadges2016/HCgovWidget_150x120-2016-generalAPPLYNOW.png?utm_source=cms&amp;#38;utm_medium=banner&amp;#38;utm_content=150x120&amp;#38;utm_campaign=hcgov&quot; /&gt;&lt;/a&gt;</div>
+    </li>
+    <li>
+      <div class="wType">160x600</div>
+      <div id="HCsquare"><a href="https://www.healthcare.gov/?fromLoc=MPBadge&utm_medium=widget&utm_content=160x600-en&utm_campaign=hcgov" shape="rect"><img alt="Have health insurance questions?" src="https://marketplace.cms.gov/resources/images/hcgovbadges2016/HCgovWidget_160x600-2016-generalLearnNow.png?utm_source=cms&#38;utm_medium=banner&#38;utm_content=160x600&#38;utm_campaign=hcgov"/></a></div>
+      <a class="wlink" href="" shape="rect" target="4">Show Code</a>
+      <div id="code4" style=" display: none;" class="bcode">&lt;a href=&quot;https://www.healthcare.gov/?fromLoc=MPBadge&amp;utm_medium=widget&amp;utm_content=160x600-en&amp;utm_campaign=hcgov&quot; shape=&quot;rect&quot;&gt;&lt;img alt=&quot;Have health insurance questions?&quot; src=&quot;https://marketplace.cms.gov/resources/images/hcgovbadges2016/HCgovWidget_160x600-2016-generalLearnNow.png?utm_source=cms&amp;#38;utm_medium=banner&amp;#38;utm_content=160x600&amp;#38;utm_campaign=hcgov&quot;/&gt;&lt;/a&gt;</div>
+    </li>
+    <li>
+      <div class="wType">180x150</div>
+      <div id="HCsquare"><a href="https://www.healthcare.gov/?fromLoc=MPBadge&utm_medium=widget&utm_content=180x150-en&utm_campaign=hcgov" shape="rect"><img alt="Have health insurance quetions?" src="https://marketplace.cms.gov/resources/images/hcgovbadges2016/HCgovWidget_180x150-2016-general_V1.png?utm_source=cms&#38;utm_medium=banner&#38;utm_content=180x150&#38;utm_campaign=hcgov" /></a></div>
+      <a class="wlink" href="" shape="rect" target="5">Show Code</a>
+      <div id="code5" style=" display: none;" class="bcode">&lt;a href=&quot;https://www.healthcare.gov/?fromLoc=MPBadge&amp;utm_medium=widget&amp;utm_content=180x150-en&amp;utm_campaign=hcgov&quot; shape=&quot;rect&quot;&gt;&lt;img alt=&quot;Have health insurance quetions?&quot; src=&quot;https://marketplace.cms.gov/resources/images/hcgovbadges2016/HCgovWidget_180x150-2016-general_V1.png?utm_source=cms&amp;#38;utm_medium=banner&amp;#38;utm_content=180x150&amp;#38;utm_campaign=hcgov&quot; /&gt;&lt;/a&gt;</div>
+    </li>
+    <li>
+      <div class="wType">180x150</div>
+      <div id="HCsquare"><a href="https://www.healthcare.gov/?fromLoc=MPBadge&utm_medium=widget&utm_content=180x150-en&utm_campaign=hcgov" shape="rect"><img alt="Learn about the Health Insurance Marketplace &amp; your new coverage options." src="https://marketplace.cms.gov/resources/images/hcgovbadges2016/HCgovWidget_180x150-2016-generalLearnNow.png?utm_source=cms&#38;utm_medium=banner&#38;utm_content=180x150&#38;utm_campaign=hcgov" /></a></div>
+      <a class="wlink" href="" shape="rect" target="6">Show Code</a>
+      <div id="code6" style=" display: none;" class="bcode">&lt;a href=&quot;https://www.healthcare.gov/?fromLoc=MPBadge&amp;utm_medium=widget&amp;utm_content=180x150-en&amp;utm_campaign=hcgov&quot; shape=&quot;rect&quot;&gt;&lt;img alt=&quot;Learn about the Health Insurance Marketplace &amp;amp; your new coverage options.&quot; src=&quot;https://marketplace.cms.gov/resources/images/hcgovbadges2016/HCgovWidget_180x150-2016-generalLearnNow.png?utm_source=cms&amp;#38;utm_medium=banner&amp;#38;utm_content=180x150&amp;#38;utm_campaign=hcgov&quot; /&gt;&lt;/a&gt;</div>
+    </li>
+    <li>
+      <div class="wType">300x125</div>
+      <div id="HCsquare"><a href="https://www.healthcare.gov/?fromLoc=MPBadge&utm_medium=widget&utm_content=300x125-en&utm_campaign=hcgov" shape="rect"><img alt="Learn about the Health Insurance Marketplace &amp; your new coverage options." src="https://marketplace.cms.gov/resources/images/hcgovbadges2016/HCgovWidget_300x125-2016-general.png?utm_source=cms&#38;utm_medium=banner&#38;utm_content=300x125&#38;utm_campaign=hcgov" /></a></div>
+      <a class="wlink" href="" shape="rect" target="7">Show Code</a>
+      <div id="code7" style=" display: none;" class="bcode">&lt;a href=&quot;https://www.healthcare.gov/?fromLoc=MPBadge&amp;utm_medium=widget&amp;utm_content=300x125-en&amp;utm_campaign=hcgov&quot; shape=&quot;rect&quot;&gt;&lt;img alt=&quot;Learn about the Health Insurance Marketplace &amp;amp; your new coverage options.&quot; src=&quot;https://marketplace.cms.gov/resources/images/hcgovbadges2016/HCgovWidget_300x125-2016-general.png?utm_source=cms&amp;#38;utm_medium=banner&amp;#38;utm_content=300x125&amp;#38;utm_campaign=hcgov&quot; /&gt;&lt;/a&gt;</div>
+    </li>
+    <li>
+      <div class="wType">300x250</div>
+      <div id="HCsquare"><a href="https://www.healthcare.gov/?fromLoc=MPBadge&utm_medium=widget&utm_content=300x250-en&utm_campaign=hcgov" shape="rect"><img alt="Have health insurance quetions?" src="https://marketplace.cms.gov/resources/images/hcgovbadges2016/HCgovWidget_300x250-2016-general.png?utm_source=cms&#38;utm_medium=banner&#38;utm_content=300x250&#38;utm_campaign=hcgov" /></a></div>
+      <a class="wlink" href="" shape="rect" target="8">Show Code</a>
+      <div id="code8" style=" display: none;" class="bcode">&lt;a href=&quot;https://www.healthcare.gov/?fromLoc=MPBadge&amp;utm_medium=widget&amp;utm_content=300x250-en&amp;utm_campaign=hcgov&quot; shape=&quot;rect&quot;&gt;&lt;img alt=&quot;Have health insurance quetions?&quot; src=&quot;https://marketplace.cms.gov/resources/images/hcgovbadges2016/HCgovWidget_300x250-2016-general.png?utm_source=cms&amp;#38;utm_medium=banner&amp;#38;utm_content=300x250&amp;#38;utm_campaign=hcgov&quot; /&gt;&lt;/a&gt;</div>
+    </li>
+    
+    
+    
+        <li>
+      <div class="wType">300x250</div>
+      <div id="HCsquare"><a href="https://www.healthcare.gov/small-businesses/?fromLoc=MPBadge&utm_medium=widget&utm_content=300x250-en&utm_campaign=hcgov" shape="rect"><img alt="Learn about health insurance that works for you and your employees under Obamacare" src="https://marketplace.cms.gov/resources/images/hcgovbadges2016/HCgovWidget_300x250-2016-generalAPPLYNOW.png?utm_source=cms&#38;utm_medium=banner&#38;utm_content=300x250&#38;utm_campaign=hcgov" style=" border-bottom: medium none; border-left: medium none; border-top: medium none; border-right: medium none;" /></a></div>
+      <a class="wlink" href="" shape="rect" target="9">Show Code</a>
+      <div id="code9" style=" display: none;" class="bcode"> &lt;div id=&quot;HCsquare&quot;&gt;&lt;a href=&quot;https://www.healthcare.gov/small-businesses/?fromLoc=MPBadge&amp;utm_medium=widget&amp;utm_content=300x250-en&amp;utm_campaign=hcgov&quot; shape=&quot;rect&quot;&gt;&lt;img alt=&quot;Learn about health insurance that works for you and your employees under Obamacare&quot; src=&quot;https://marketplace.cms.gov/resources/images/hcgovbadges2016/HCgovWidget_300x250-2016-generalAPPLYNOW.png?utm_source=cms&amp;#38;utm_medium=banner&amp;#38;utm_content=300x250&amp;#38;utm_campaign=hcgov&quot; style=&quot; border-bottom: medium none; border-left: medium none; border-top: medium none; border-right: medium none;&quot; /&gt;&lt;/a&gt;&lt;/div&gt; </div>
+    </li>
+    
+      <li>
+      <div class="wType">728x90</div>
+      <div id="HCsquare"><a href="https://www.healthcare.gov/small-businesses/?fromLoc=MPBadge&utm_medium=widget&utm_content=728x90-en&utm_campaign=hcgov" shape="rect"><img alt="Get health insurance that works for you and your employees" src="https://marketplace.cms.gov/resources/images/hcgovbadges2016/HCgovWidget_728x90-2016-generalApplyNow.png?utm_source=cms&#38;utm_medium=banner&#38;utm_content=728x90&#38;utm_campaign=hcgov" style=" border-bottom: medium none; border-left: medium none; border-top: medium none; border-right: medium none;" /></a></div>
+      <a class="wlink" href="" shape="rect" target="10">Show Code</a>
+      <div id="code10" style=" display: none;" class="bcode"> &lt;div id=&quot;HCsquare&quot;&gt;&lt;a href=&quot;https://www.healthcare.gov/small-businesses/?fromLoc=MPBadge&amp;utm_medium=widget&amp;utm_content=728x90-en&amp;utm_campaign=hcgov&quot; shape=&quot;rect&quot;&gt;&lt;img alt=&quot;Get health insurance that works for you and your employees&quot; src=&quot;https://marketplace.cms.gov/resources/images/hcgovbadges2016/HCgovWidget_728x90-2016-generalApplyNow.png?utm_source=cms&amp;#38;utm_medium=banner&amp;#38;utm_content=728x90&amp;#38;utm_campaign=hcgov&quot; style=&quot; border-bottom: medium none; border-left: medium none; border-top: medium none; border-right: medium none;&quot; /&gt;&lt;/a&gt;&lt;/div&gt; </div>
+    </li>
+    
+        <li>
+      <div class="wType">180x150</div>
+      <div id="HCsquare"><a href="https://www.healthcare.gov/small-businesses/?fromLoc=MPBadge&utm_medium=widget&utm_content=180x150-en&utm_campaign=hcgov" shape="rect"><img alt="Learn more now about health insurance that works for you and your employees and Obamacare" src="https://marketplace.cms.gov/resources/images/hcgovbadges2016/HCgovWidget_728x90-2016-generalLearnNow.png?utm_source=cms&#38;utm_medium=banner&#38;utm_content=180x150&#38;utm_campaign=hcgov" style=" border-bottom: medium none; border-left: medium none; border-top: medium none; border-right: medium none;" /></a></div>
+      <a class="wlink" href="" shape="rect" target="11">Show Code</a>
+      <div id="code11" style=" display: none;" class="bcode"> &lt;div id=&quot;HCsquare&quot;&gt;&lt;a href=&quot;https://www.healthcare.gov/small-businesses/?fromLoc=MPBadge&amp;utm_medium=widget&amp;utm_content=180x150-en&amp;utm_campaign=hcgov&quot; shape=&quot;rect&quot;&gt;&lt;img alt=&quot;Learn more now about health insurance that works for you and your employees and Obamacare&quot; src=&quot;https://marketplace.cms.gov/resources/images/hcgovbadges2016/HCgovWidget_728x90-2016-generalLearnNow.png?utm_source=cms&amp;#38;utm_medium=banner&amp;#38;utm_content=180x150&amp;#38;utm_campaign=hcgov&quot; style=&quot; border-bottom: medium none; border-left: medium none; border-top: medium none; border-right: medium none;&quot; /&gt;&lt;/a&gt;&lt;/div&gt; </div>
+    </li>
+    
+    
+        <li>
+    
+      <div id="HCsquare"><a href="https://www.healthcare.gov/marketplace/shop/?fromLoc=MPBadge&utm_medium=widget&utm_content=120x150-en&utm_campaign=hcgov" shape="rect"><img alt="Get health insurance that works for you and your employees" src="https://marketplace.cms.gov/resources/images/hcgovbadges2016/WebWidgets_HCGOV2016_Final.png?utm_source=cms&#38;utm_medium=banner&#38;utm_content=120x150&#38;utm_campaign=hcgov" style=" border-bottom: medium none; border-left: medium none; border-top: medium none; border-right: medium none;" /></a></div>
+      <a class="wlink" href="" shape="rect" target="12">Show Code</a>
+      <div id="code12" style=" display: none;" class="bcode"> &lt;div id=&quot;HCsquare&quot;&gt;&lt;a href=&quot;https://www.healthcare.gov/marketplace/shop/?fromLoc=MPBadge&amp;utm_medium=widget&amp;utm_content=120x150-en&amp;utm_campaign=hcgov&quot; shape=&quot;rect&quot;&gt;&lt;img alt=&quot;Get health insurance that works for you and your employees&quot; src=&quot;https://marketplace.cms.gov/resources/images/hcgovbadges2016/WebWidgets_HCGOV2016_Final.png?utm_source=cms&amp;#38;utm_medium=banner&amp;#38;utm_content=120x150&amp;#38;utm_campaign=hcgov&quot; style=&quot; border-bottom: medium none; border-left: medium none; border-top: medium none; border-right: medium none;&quot; /&gt;&lt;/a&gt;&lt;/div&gt; </div>
+    </li>
+    
+    
+        <li>
+   
+      <div id="HCsquare"><a href="https://www.healthcare.gov/marketplace/shop/?fromLoc=MPBadge&utm_medium=widget&utm_content=300x250-en&utm_campaign=hcgov" shape="rect"><img alt="Apply now to get health insurance that works for you and your employees" src="https://marketplace.cms.gov/resources/images/hcgovbadges2016/WebWidgets_HCGOV2016_Final2.png?utm_source=cms&#38;utm_medium=banner&#38;utm_content=300x250&#38;utm_campaign=hcgov" style=" border-bottom: medium none; border-left: medium none; border-top: medium none; border-right: medium none;" /></a></div>
+      <a class="wlink" href="" shape="rect" target="13">Show Code</a>
+      <div id="code13" style=" display: none;" class="bcode"> &lt;div id=&quot;HCsquare&quot;&gt;&lt;a href=&quot;https://www.healthcare.gov/marketplace/shop/?fromLoc=MPBadge&amp;utm_medium=widget&amp;utm_content=300x250-en&amp;utm_campaign=hcgov&quot; shape=&quot;rect&quot;&gt;&lt;img alt=&quot;Apply now to get health insurance that works for you and your employees&quot; src=&quot;https://marketplace.cms.gov/resources/images/hcgovbadges2016/WebWidgets_HCGOV2016_Final2.png?utm_source=cms&amp;#38;utm_medium=banner&amp;#38;utm_content=300x250&amp;#38;utm_campaign=hcgov&quot; style=&quot; border-bottom: medium none; border-left: medium none; border-top: medium none; border-right: medium none;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;</div>
+    </li>
+    
+
+    
+        <li>
+      
+      <div id="HCsquare"><a href="https://www.healthcare.gov/small-businesses/?fromLoc=MPBadge&utm_medium=widget&utm_content=728x90-en&utm_campaign=hcgov" shape="rect"><img alt="Learn more now about health insurance that works for you and your employees through the Health Insurance Marketplace and Obamacare" src="https://marketplace.cms.gov/resources/images/hcgovbadges2016/WebWidgets_HCGOV2016_Final3.png?utm_source=cms&#38;utm_medium=banner&#38;utm_content=728x90&#38;utm_campaign=hcgov" style=" border-bottom: medium none; border-left: medium none; border-top: medium none; border-right: medium none;" /></a></div>
+      <a class="wlink" href="" shape="rect" target="14">Show Code</a>
+      <div id="code14" style=" display: none;" class="bcode"> &lt;div id=&quot;HCsquare&quot;&gt;&lt;a href=&quot;https://www.healthcare.gov/small-businesses/?fromLoc=MPBadge&amp;utm_medium=widget&amp;utm_content=728x90-en&amp;utm_campaign=hcgov&quot; shape=&quot;rect&quot;&gt;&lt;img alt=&quot;Learn more now about health insurance that works for you and your employees through the Health Insurance Marketplace and Obamacare&quot; src=&quot;https://marketplace.cms.gov/resources/images/hcgovbadges2016/WebWidgets_HCGOV2016_Final3.png?utm_source=cms&amp;#38;utm_medium=banner&amp;#38;utm_content=728x90&amp;#38;utm_campaign=hcgov&quot; style=&quot; border-bottom: medium none; border-left: medium none; border-top: medium none; border-right: medium none;&quot; /&gt;&lt;/a&gt;&lt;/div&gt; </div>
+    </li>
+    
+    
+        <li>
+
+      <div id="HCsquare"><a href="https://www.healthcare.gov/marketplace/shop/?fromLoc=MPBadge&utm_medium=widget&utm_content=728x90-en&utm_campaign=hcgov" shape="rect"><img alt="Apply now to get health insurance that work for you and your employees." src="https://marketplace.cms.gov/resources/images/hcgovbadges2016/WebWidgets_HCGOV2016_Final4.png?utm_source=cms&#38;utm_medium=banner&#38;utm_content=728x90&#38;utm_campaign=hcgov" style=" border-bottom: medium none; border-left: medium none; border-top: medium none; border-right: medium none;" /></a></div>
+      <a class="wlink" href="" shape="rect" target="15">Show Code</a>
+      <div id="code15" style=" display: none;" class="bcode"> &lt;div id=&quot;HCsquare&quot;&gt;&lt;a href=&quot;https://www.healthcare.gov/marketplace/shop/?fromLoc=MPBadge&amp;utm_medium=widget&amp;utm_content=728x90-en&amp;utm_campaign=hcgov&quot; shape=&quot;rect&quot;&gt;&lt;img alt=&quot;Apply now to get health insurance that work for you and your employees.&quot; src=&quot;https://marketplace.cms.gov/resources/images/hcgovbadges2016/WebWidgets_HCGOV2016_Final4.png?utm_source=cms&amp;#38;utm_medium=banner&amp;#38;utm_content=728x90&amp;#38;utm_campaign=hcgov&quot; style=&quot; border-bottom: medium none; border-left: medium none; border-top: medium none; border-right: medium none;&quot; /&gt;&lt;/a&gt;&lt;/div&gt; </div>
+    </li>
+    
+   
+    
+    
+    
+    
+    <!-- end  -->
+    
+    
+  </ul>
+</div>
+<br/>
+<br/>
+<p><span style=" font-size: small;">Steps to creating Outlook e-mail signature with Marketplace badges:</span></p>
+<ol>
+  <li><span><span style=" font-size: small;">Right click and copy the badge from the Marketplace</span></span> <a href="http://marketplace.cms.gov/getofficialresources/widgets-and-badges/mp-badges-english.html"><span><span style=" font-size: small;">widget</span></span></a><span></span> <span style=" font-size: small;">page.</span></li>
+  <li><span><span style=" font-size: small;">Right click on the signature panel and paste the badge.</span></span></li>
+  <li><span><span style=" font-size: small;">Once the badge has been added to signature panel, you can make it clickable and point it to a https://www.Healthcare.gov Website.<br />
+    &#160;&#160;&#160;&#160;&#160;- Select the inserted badge and click on the Hyperlink icon &#160;</span></span></li>
+</ol>
+<br/>
+<br/>
+<div id="wufoo-p7w5p9"> Fill out my <a href="http://cmsgov.wufoo.com/forms/p7w5p9">online form</a>. </div>
+
+<script type="text/javascript">var p7w5p9;(function(d, t) {
+var s = d.createElement(t), options = {
+'userName':'cmsgov', 
+'formHash':'p7w5p9', 
+'autoResize':true,
+'height':'437',
+'async':true,
+'header':'show', 
+'ssl':true};
+s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
+s.onload = s.onreadystatechange = function() {
+var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+try { p7w5p9 = new WufooForm();p7w5p9.initialize(options);p7w5p9.display(); } catch (e) {}};
+var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+})(document, 'script');</script>	  
+	   
+  
+  
+
+	
+	
+	
+     
+		
+		 <h2>Related links</h2>
+	        
+			 <ul><li><a href="/technical-assistance-resources/multimedia/multimedia.html">Marketplace Multimedia</a></li><li>Marketplace Widgets</li></ul>			  	  
+	   
+  
+  	
+		   
+		
+				
+			
+		
+	
+		
+		
+	  </div>
+        <div class="span2">
+	
+		
+		
+		
+		</div><!--span4-->
+           
+    </div>
+	   
+ </div>
+    
+
+	   
+	    <div id="push"></div>
+</div>
+<!-- Page Container -->
+
+<footer id="footer" data-role="footer">
+  <div id="ft-group" class="container">
+    <div class="cms-address-bar">
+      <div class="row-fluid show-grid">
+        <div class="span6 hombbtn"> <img alt="CMS.gov Health Insurance Marketplace" src="/resources/images/logo/logo-footer.png"> </div>
+        
+        
+        <div class="span6">
+          <div class="social-media">
+            <ul>
+              <li class="text"> Stay connected with the Marketplace</li>
+              <li class="facebook"><a href="https://www.facebook.com/Healthcare.gov" title="Marketplace Facebook" class="footer_facebook_link"> <img alt="Marketplace Facebook" src="/resources/images/sprite-mp.png"> </a></li>
+              <li class="twitter"> <a href="https://twitter.com/HealthCareGov" class="footer_twitter_link"> <img alt="Marketplace Twitter" src="/resources/images/sprite-mp.png"> </a></li>
+              <li class="youtube"> <a href="http://www.youtube.com/playlist?list=PLaV7m2-zFKpgZDNCz7rZ3Xx7q2cDmpAm7" title="CMS YouTube" class="footer_youtube_link"> <img alt="CMS Youtube" src="/resources/images/sprite-mp.png"> </a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- cms-address-bar --> 
+      
+    </div>
+    <div class="footer-nav">
+      <div class="row-fluid show-grid">
+        <div class="span3">
+          <ul class="ft-nav">
+            
+                                                        <li><a href="/applications-and-forms/applications-and-forms.html">Applications, Forms, &   Notices       </a></li>
+                  <li><a href="/technical-assistance-resources/technical-assistance-resources.html">Technical Assistance Resources</a></li>
+                  <li><a href="/outreach-and-education/outreach-and-education.html">Outreach & Education</a></li>
+                        </ul>
+        </div>
+        <div class="span3">
+          <h2> Helpful Links</h2>
+          <ul>
+            <li> <a href="http://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/index.html" title="Site policies and important links">Site policies & important links</a> </li>
+            <li> <a href="http://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/Privacy-Policy.html" title="Privacy policy">Privacy policy</a> </li>
+            <li> <a title="Plain Language" href="//www.medicare.gov/about-us/plain-writing/plain-writing.html" class="titlelink">Plain language</a> </li>
+            <li> <a title="Freedom of Information Act" href="http://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/FOIA.html" class="titlelink">Freedom of Information Act</a> </li>
+            <li> <a title="No Fear Act" href="http://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/NoFearAct.html" class="titlelink">No Fear Act</a> </li>
+			<li> <a title="Nondiscrimination & Accessibility" href="http://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/CMSNondiscriminationNotice.html">Nondiscrimination & Accessibility</a> </li>
+            <li> <a title="HHS.gov" target="_blank" href="http://www.hhs.gov"> HHS.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="Inspector General" target="_blank" href="http://www.justice.gov/oig"> Inspector General <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="USA.gov" target="_blank" href="http://www.usa.gov"> USA.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+          </ul>
+        </div>
+        <div class="span3">
+          <h2>CMS & HHS Websites</h2>
+          <ul>
+            <li> <a title="Medicare.gov" target="_blank" href="http://www.medicare.gov"> Medicare.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="MyMedicare.gov" target="_blank" href="http://MyMedicare.gov"> MyMedicare.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="StopMedicareFraud.gov" target="_blank" href="http://www.stopmedicarefraud.gov"> StopMedicareFraud.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="Medicaid.gov" target="_blank" href="http://Medicaid.gov"> Medicaid.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="InsureKidsNow.gov" target="_blank" href="http://www.insurekidsnow.gov"> InsureKidsNow.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="HealthCare.gov" target="_blank" href="http://www.HealthCare.gov"> HealthCare.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="HHS.gov/Open" target="_blank" href="http://www.hhs.gov/open/"> HHS.gov/Open <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+          </ul>
+        </div>
+        <div class="span3"></div>
+      </div>
+    </div>
+    <!-- Footer Nav -->
+    
+    <div class="footer-address">
+      <div class="row-fluid show-grid">
+        <div class="span8">A federal government website managed by the Centers for Medicare &amp; Medicaid Services<br>
+          7500 Security Boulevard, Baltimore, MD 21244
+          <div class="vcard"> <a href="/" class="fn org url">Centers for Medicare &amp; Medicaid Services</a>
+            <div class="adr">
+              <div class="street-address"> 7500 Security Boulevard </div>
+              <span class="locality">Baltimore</span>, <abbr title="Maryland" class="region"> MD</abbr><span class="postal-code">21244</span>
+              <div class="country-name"> USA</div>
+            </div>
+          </div>
+          <!-- vcard --> 
+          
+        </div>
+        <div class="span4">
+          <div id="footer_hhs_logo"> <a id="footer_hhs_logo_link" title="Health and Human Services home page" href="http://www.hhs.gov/"> <img alt="Health and Human Services home page" src="/resources/images/logo/logo-hhs-footer.png"> </a> </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script type="text/javascript" src="/resources/js/jquery.js"></script> 
+<script type="text/javascript" src="/resources/js/modernizr.js"></script>
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script type="text/javascript" src="/resources/js/script.js"></script>
+<script type="text/javascript" src="/resources/js/jquery.validate.min.js"></script>
+
+<script type="text/javascript" src="/resources/js/additional-methods.min.js"></script>
+<script type="text/javascript" src="/resources/js/jquery.maxlenth.js"></script>
+<script type="text/javascript" src="/resources/js/cacform.js"></script>
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4da5b2c47a9f9bd7"></script>
+
+</body>
+</html>
+

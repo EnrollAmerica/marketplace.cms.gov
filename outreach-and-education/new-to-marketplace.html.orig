@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<head>
+<title>New to the Marketplace | Marketplace.CMS.Gov</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="" />
+
+
+<!-- Fav and touch icons -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/resources/images/icons/HIM-favicon-114px.ico">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/resources/images/icons/HIM-favicon-114px.ico">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/resources/images/icons/HIM-favicon-72px.ico">
+<link rel="apple-touch-icon-precomposed" href="/resources/images/icons/HIM-favicon-32px.ico">
+<link rel="shortcut icon" href="/resources/images/icons/HIM-favicon-16px.ico">
+<link href="//assets.cms.gov/resources/global/css/lib/bootstrap.css" rel="stylesheet" type="text/css">
+<link href='https://fonts.googleapis.com/css?family=Bree+Serif|Source+Sans+Pro:400,900italic,900,700italic,700,600,600italic,400italic' rel='stylesheet' type='text/css'>
+<link href="/resources/css/framework.css" rel="stylesheet" type="text/css">
+<link href="/resources/css/style.css" rel="stylesheet" type="text/css">
+<link href="/resources/css/bootstrap-responsive.css" rel="stylesheet" type="text/css">
+
+<script src="//tags.tiqcdn.com/utag/cmsgov/cms-marketplace/prod/utag.sync.js"></script>
+
+
+<!-- HTML5 shi/css3 media query, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+          <script src="//assets.cms.gov/Resources/Global/JS/lib/html5.js"></script>
+    <![endif]-->
+
+<!--[if gte IE 8]>
+  <link href="/resources/css/iefix.css" rel="stylesheet" type="text/css">
+<![endif]-->
+
+<!--[if lte IE 7]>  
+    <link href="/resources/css/iefix.css" rel="stylesheet" type="text/css">
+ <![endif]-->  
+ 
+	
+	                
+    			<link rel="canonical" href="https://marketplace.cms.gov/outreach-and-education/new-to-marketplace.html" />
+
+
+</head>
+<body role="document">
+<script type="text/javascript">
+    (function(a,b,c,d){
+    a='//tags.tiqcdn.com/utag/cmsgov/cms-marketplace/'+(/^marketplace\.cms\.gov/i.test(window.location.hostname)?'prod':'dev')+'/utag.js';
+    b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+    a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+</script>
+
+
+<div class="skipnav"><a href="#main_content" title="Skip Navigation" id="skipNavigation">Skip Navigation</a></div>
+<div id="page" class="container" data-role="page">
+  <header data-role="header" role="banner">
+      <div class="row-fluid show-grid">
+        <div class="span6">
+          <div class="hd" data-role="header">
+            <div id="headerlogo"> <a title="CMS.gov Health Insurance Marketplace" href="/" id="headerlogo-link"> <img alt="CMS.gov Health Insurance Marketplace" src="/resources/images/logo/logo-header.png"> </a> </div>
+          </div>
+        </div>
+        <div class="span6">
+          <div class="min-nav">
+         <ul class="toolbox_body">
+              <li title="Go to CMS.gov"> <a href="http://www.cms.gov/">CMS.gov</a></li>
+              <li> <a title="About CMS.gov" href="http://www.cms.gov/About-CMS/About-CMS.html">About CMS</a> </li>
+              <li > <a title="FAQ" href="https://questions.cms.gov/faq.php?id=5005&rtopic=1993">FAQs</a> </li> 
+			  <li> <a class="print" title="Print" href="/">Print</a> </li>       
+              <li class="addthis_button no-border">  <a href="http://www.addthis.com/bookmark.php?v=300&amp;pubid=ra-4da5b2c47a9f9bd7" class="share ">Share</a> </li>
+
+            </ul>
+          </div>
+          <div class="input-append">
+            <form class="form-search" onsubmit="return submitQuery()">			
+              <div class="input-append">
+                <label class="HiddenText" for="query-input">Search marketplace.cms.gov</label>
+                <input id="query-input" type="text" class="search-query" title="type search term here" placeholder="Type search term here" autocomplete="off">
+                <button type="submit" class="btn">Search</button>
+              </div>
+            </form>
+          </div>
+          <div class="healthcare-link"><a id="headerlearnlink" href="https://public.govdelivery.com/accounts/USCMS/subscriber/new">Get email updates</a></div>
+        </div>
+      </div>   
+  </header>
+  
+    
+	 
+
+
+
+
+
+
+	 
+	  <nav id="nav" class="navbar" data-role="navbar" role="navigation" aria-labelledby="navheading2">
+        <div class="navbar-inner">
+          <div class="container">
+            <h2 id="navheading2" class="HiddenText">Main Menu</h2>
+					<ul class="nav">
+                                                        <li><a href="/applications-and-forms/applications-and-forms.html">Applications, Forms, &   Notices       </a></li>
+                  <li><a href="/technical-assistance-resources/technical-assistance-resources.html">Technical Assistance Resources</a></li>
+                  <li><a href="/outreach-and-education/outreach-and-education.html">Outreach & Education</a></li>
+                 </ul>
+            </div>
+        </div>
+      </nav>
+      <!-- /.navbar --> 
+
+     <div class="breadcrumb"><ul> 
+
+
+
+
+
+
+
+
+
+       
+	     &#160;&#160;&#160;
+            <li><a href="/index.html">Health Insurance Marketplace home</a> <span class="divider">></span></li>
+                                                            
+    Outreach & Education
+                   
+    </ul> </div>
+ 
+    
+ <div id="main_content" data-role="content"> 
+	 <div class="row-fluid show-grid">
+       <div class="span10"> 
+		<h1>New to the Marketplace</h1>
+		
+		<div class="callout"></div>
+		
+		
+<h3>Enrollment</h3>
+<h4>&nbsp;Fact sheets</h4>
+<ul>
+<li>Get ready to apply for or renew your Health Insurance Marketplace coverage
+<ul>
+<li><a href="/outreach-and-education/apply-for-or-renew-coverage.pdf">English</a>&nbsp;| <a href="/outreach-and-education/apply-for-or-renew-coverage-spanish.pdf">Spanish</a></li>
+</ul>
+</li>
+<li>Special Enrollment Periods for the Health Insurance Marketplace
+<ul>
+<li><a href="/outreach-and-education/special-enrollment-periods-for-marketplace.pdf">English</a> | <a href="/outreach-and-education/special-enrollment-periods-for-marketplace-spanish.pdf">Spanish</a></li>
+</ul>
+</li>
+<li>Marketplace Application Checklist
+<ul>
+<li><a href="/outreach-and-education/marketplace-application-checklist.pdf">English</a> | <a href="/outreach-and-education/marketplace-application-checklist-spanish.pdf">Spanish</a></li>
+</ul>
+</li>
+<li>Verifying your identity: ID proofing in the Marketplace
+<ul>
+<li><a href="/outreach-and-education/your-marketplace-application.pdf">English</a> | <a href="/technical-assistance-resources/id-proofing-spanish.pdf">Spanish</a></li>
+</ul>
+</li>
+<li>Applying for Marketplace Coverage after Medicaid or CHIP denial
+<ul>
+<li><a href="/outreach-and-education/applying-for-coverage.pdf">English</a> | <a href="/outreach-and-education/medicaid-chip-denial.pdf">Spanish</a>&nbsp;</li>
+</ul>
+</li>
+<li>Apply for Medicaid &amp; CHIP through the Health Insurance Marketplace
+<ul>
+<li><a href="/outreach-and-education/apply-for-medicaid-chip-through-marketplace.pdf">English</a> | <a href="/outreach-and-education/apply-for-medicaid-chip-through-marketplace-spanish.PDF">Spanish</a></li>
+</ul>
+</li>
+<li><a href="/outreach-and-education/household-income-data-matching-issues.pdf">Consumer Guide for Annual Household Income Data Matching Issues</a></li>
+<li>Key Dates for the Health Insurance Marketplace
+<ul>
+<li><a href="/outreach-and-education/11660-key-dates-in-the-marketplace.pdf">English</a> | <a href="/outreach-and-education/key-dates-in-the-marketplace-spanish.pdf">Spanish</a></li>
+<li><a href="/outreach-and-education/other-languages.html">Other languages</a></li>
+</ul>
+</li>
+<li>Turning 26? What you need to know about Marketplace
+<ul>
+<li><a href="/outreach-and-education/turning-26.pdf">English</a> | <a href="/outreach-and-education/turning-26-spanish.pdf">Spanish</a></li>
+</ul>
+</li>
+<li>Important Health Insurance Information for Seasonal Employees
+<ul>
+<li><a href="/outreach-and-education/information-for-seasonal-employees.pdf">English</a>&nbsp;| <a href="/outreach-and-education/information-for-seasonal-employees-spanish.pdf">Spanish</a></li>
+</ul>
+</li>
+<li>Choosing a High-Quality Marketplace Health Plan
+<ul>
+<li><a href="/outreach-and-education/choosing-a-high-quality-plan.pdf">English</a></li>
+</ul>
+</li>
+<li>5 Questions to Ask Yourself When Choosing a Plan
+<ul>
+<li><a href="/outreach-and-education/5-questions-to-ask-choosing-a-plan.pdf">English</a></li>
+<li><a href="/outreach-and-education/other-languages.html">Other languages</a></li>
+</ul>
+</li>
+</ul>
+<h4>Postcards</h4>
+<ul>
+<li>3 reasons young adults need health coverage
+<ul>
+<li><a href="/outreach-and-education/reasons-young-adults-need-coverage.pdf">English</a> | <a href="/outreach-and-education/reasons-young-adults-need-coverage-spanish.pdf">Spanish</a></li>
+</ul>
+</li>
+</ul>
+<h4>Posters</h4>
+<ul>
+<li>Get Health Insurance for 2017
+<ul>
+<li><a href="/outreach-and-education/get-health-insurance-for-2017.pdf">English</a> | <a href="/outreach-and-education/get-health-insurance-for-2017-spanish.pdf">Spanish</a></li>
+</ul>
+</li>
+</ul>
+<h4>Drop in articles</h4>
+<ul>
+<li>Open Enrollment important dates
+<ul>
+<li>The Health Insurance Marketplace is open for business
+<ul>
+<li><a href="/outreach-and-education/the-marketplace-is-open-article.pdf">English</a></li>
+</ul>
+</li>
+<li>Enroll in the Health Insurance Marketplace by December 15 to get coverage starting January 1
+<ul>
+<li><a href="/outreach-and-education/enroll-in-the-marketplace-article.pdf">English</a></li>
+</ul>
+</li>
+<li>Time is running out to apply for a Marketplace health plan
+<ul>
+<li><a href="/outreach-and-education/time-is-running-out-article.pdf">English</a></li>
+</ul>
+</li>
+<li>Choosing Health Coverage that Meets Your Needs
+<ul>
+<li><a href="/outreach-and-education/choosing-health-coverage-article.pdf">English</a></li>
+</ul>
+</li>
+<li>How your Marketplace health insurance works
+<ul>
+<li><a href="/outreach-and-education/how-marketplace-insurance-works-article.pdf">English</a>&nbsp;| <a href="/outreach-and-education/how-marketplace-insurance-works-article-spanish.PDF">Spanish</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4>Infographic</h4>
+<ul>
+<li>No computer? You can still get Marketplace coverage
+<ul>
+<li><a href="/technical-assistance-resources/logo-and-infographics/no-computer-infographic.pdf">English</a> | <a href="/technical-assistance-resources/logo-and-infographics/no-computer-infographic-spanish.pdf">Spanish</a></li>
+</ul>
+</li>
+<li>4 Ways to Get Marketplace Coverage
+<ul>
+<li><a href="/technical-assistance-resources/logo-and-infographics/4-ways-to-get-marketplace-coverage.pdf">English</a> | <a href="/technical-assistance-resources/logo-and-infographics/4-ways-to-get-coverage-spanish.pdf">Spanish</a>&nbsp;</li>
+</ul>
+</li>
+<li>4 Ways to Get Marketplace Coverage (double-sided)
+<ul>
+<li><a href="/technical-assistance-resources/logo-and-infographics/ways-to-get-covered-ds.pdf">English</a> | <a href="/technical-assistance-resources/logo-and-infographics/ways-to-get-covered-ds-spanish.PDF">Spanish</a></li>
+</ul>
+</li>
+<li>How the Marketplace Works
+<ul>
+<li><a href="/technical-assistance-resources/logo-and-infographics/how-marketplace-works.pdf">English</a> | <a href="/technical-assistance-resources/logo-and-infographics/how-marketplace-works-spanish.pdf">Spanish</a></li>
+</ul>
+</li>
+<li>7 things immigrant families need to know about Marketplace coverage
+<ul>
+<li><a href="/technical-assistance-resources/logo-and-infographics/7-things-immigrants-need-to-know.pdf">English</a> | <a href="/technical-assistance-resources/logo-and-infographics/7-things-immigrants-need-to-know-spanish.pdf">Spanish</a></li>
+</ul>
+</li>
+</ul>
+<h4>Training Presentations</h4>
+<ul>
+<li>The Health Insurance Marketplace: Information for Immigrant Families
+<ul>
+<li><a href="/technical-assistance-resources/training-materials/marketplace-for-immigrants-slides-notes.pptx">Presenter slides with speaker notes</a></li>
+</ul>
+</li>
+</ul>
+<h3>General Information</h3>
+<h4>Fact sheets</h4>
+<ul>
+<li>Get Covered: A One-Page Guide to the Health Insurance Marketplace
+<ul>
+<li><a href="/outreach-and-education/get-covered-a-one-page-guide-to-the-marketplace.pdf">English</a> | <a href="/outreach-and-education/get-covered-a-one-page-guide-to-the-marketplace-spanish.pdf">Spanish</a></li>
+</ul>
+</li>
+<li>Protect Yourself from Fraud
+<ul>
+<li><a href="/outreach-and-education/protect-yourself-from-fraud-in-health-insurance-marketplace.pdf">English</a> | <a href="/outreach-and-education/protect-yourself-from-fraud-in-health-insurance-marketplace-spanish.pdf">Spanish</a>&nbsp;</li>
+</ul>
+</li>
+<li>5 Questions to Ask Yourself When Choosing a Plan
+<ul>
+<li><a href="/outreach-and-education/5-questions-to-ask-choosing-a-plan.pdf">English</a>&nbsp;&nbsp;</li>
+<li><a href="/outreach-and-education/other-languages.html">Other languages</a></li>
+</ul>
+</li>
+<li>Medicare &amp; the Health Insurance Marketplace
+<ul>
+<li><a href="/outreach-and-education/medicare-and-the-health-insurance-marketplace.pdf">English</a> | <a href="/outreach-and-education/medicare-and-marketplace-spanish.pdf">Spanish</a></li>
+</ul>
+</li>
+<li>No Health Coverage? Find Out if You'll Owe a Fee
+<ul>
+<li><a href="/outreach-and-education/cant-afford-coverage.pdf">English</a></li>
+</ul>
+</li>
+<li>10 Things Providers Need to Know
+<ul>
+<li><a href="/outreach-and-education/10-things-providers-need-to-know.pdf">English</a> | <a href="/outreach-and-education/10-things-providers-need-to-know-spanish.pdf">Spanish</a>&nbsp;</li>
+</ul>
+</li>
+<li>10 Things to Tell Your Patients
+<ul>
+<li><a href="/outreach-and-education/10-things-to-tell-your-patients.pdf">English</a> | <a href="/outreach-and-education/ten-things-to-tell-your-patients-spanish.pdf">Spanish</a>&nbsp;</li>
+</ul>
+</li>
+<li>Exemptions from the Fee for Not Having Health Coverage
+<ul>
+<li><a href="/outreach-and-education/exemptions-from-fee-for-not-having-coverage.pdf">English</a>&nbsp;</li>
+</ul>
+</li>
+<li>What's a Health Savings Account (HSA)?
+<ul>
+<li><a href="/outreach-and-education/health-savings-account.pdf">English</a> | <a href="/outreach-and-education/health-savings-account-spanish.pdf">Spanish</a></li>
+</ul>
+</li>
+</ul>
+<h4>Postcards</h4>
+<ul>
+<li>Resources&nbsp;
+<ul>
+<li><a href="/outreach-and-education/better-options-better-health-pocket-resource-card.pdf">English</a> | <a href="/outreach-and-education/better-options-better-health-pocket-resource-card-spanish.PDF">Spanish</a></li>
+</ul>
+</li>
+<li><a href="/outreach-and-education/what-do-i-need-to-know.pdf">What do I need to know about the Marketplace?</a></li>
+<li>Understanding the Health Insurance Marketplace If You're Incarcerated
+<ul>
+<li><a href="/outreach-and-education/understanding-the-marketplace-if-incarcerated.pdf">English</a> | <a href="/outreach-and-education/understanding-the-marketplace-if-incarcerated-spanish.pdf">Spanish</a></li>
+</ul>
+</li>
+<li>Need health coverage?
+<ul>
+<li><a href="/outreach-and-education/need-health-coverage-postcard.pdf">English</a> | <a href="/outreach-and-education/need-health-coverage-postcard-spanish.pdf">Spanish</a></li>
+</ul>
+</li>
+</ul>
+<h4>Brochures</h4>
+<ul>
+<li>The Value of Health Insurance
+<ul>
+<li><a href="/outreach-and-education/value-of-health-insurance-english.pdf">English</a> | <a href="/outreach-and-education/value-of-health-insurance-spanish.pdf">Spanish</a>&nbsp;</li>
+<li><a href="/outreach-and-education/other-languages.html">Other languages</a></li>
+</ul>
+</li>
+<li>The Health Insurance Marketplace
+<ul>
+<li><a href="/outreach-and-education/about-the-marketplace-english.pdf">English</a> | <a href="/outreach-and-education/about-the-marketplace-spanish.pdf">Spanish</a></li>
+<li><a href="/outreach-and-education/other-languages.html">Other languages</a></li>
+</ul>
+</li>
+</ul>
+<h4>Customizable templates</h4>
+<ul>
+<li>Need health coverage? (flyer)
+<ul>
+<li><a href="/outreach-and-education/open-enrollment-fillable-flyer.pdf">English</a>&nbsp;| <a href="/outreach-and-education/need-health-coverage-flyer-spanish.pdf">Spanish</a></li>
+</ul>
+</li>
+<li><a href="/outreach-and-education/need-affordable-health-coverage-fillable-flyer.pdf">Need affordable health coverage? Get answers! (flyer)</a></li>
+</ul>
+<h4>Drop in articles</h4>
+<ul>
+<li>Need Health Coverage? The Health Insurance Marketplace is the place for you
+<ul>
+<li><a href="/outreach-and-education/relaunch-drop-in-article.pdf">English</a> | <a href="/outreach-and-education/need-health-coverage-spanish.pdf">Spanish</a>&nbsp;</li>
+</ul>
+</li>
+<li>Need Health Coverage? The Health Insurance Marketplace is the place for you (African Americans)
+<ul>
+<li><a href="/outreach-and-education/relaunch-drop-in-african-american.pdf">English</a> | <a href="/outreach-and-education/need-health-coverage-spanish-african-americans.pdf">Spanish</a></li>
+</ul>
+</li>
+<li>Need Health Coverage? The Health Insurance Marketplace is the place for you (Hispanics)
+<ul>
+<li><a href="/outreach-and-education/relaunch-drop-in-article-hispanics.pdf">English</a> | <a href="/outreach-and-education/need-health-coverage-spanish-hispanics.PDF">Spanish</a>&nbsp;</li>
+</ul>
+</li>
+<li>Need Health Coverage? The Health Insurance Marketplace is the place for you (Women)
+<ul>
+<li><a href="/outreach-and-education/relaunch-drop-in-article-women.pdf">English</a> | <a href="/outreach-and-education/need-health-coverage-spanish-women.pdf">Spanish</a>&nbsp;</li>
+</ul>
+</li>
+</ul>
+<h4>Training Presentations</h4>
+<ul>
+<li>The Health Insurance Marketplace 101
+<ul>
+<li><a href="/technical-assistance-resources/training-materials/the-health-insurance-marketplace-101.pptx">English</a></li>
+</ul>
+</li>
+</ul>
+<h3>Appeals</h3>
+<h4>Fact sheets</h4>
+<ul>
+<li>Appealing eligibility decisions in the Health Insurance Marketplace
+<ul>
+<li><a href="/outreach-and-education/appeals-eligibility-and-health-plan-decisions.pdf">English</a> | <a href="/outreach-and-education/appeals-eligibility-and-health-plan-decisions-in-the-health-insurance-marketplace-spanish-.PDF">Spanish</a></li>
+</ul>
+</li>
+<li><a href="/outreach-and-education/know-your-rights.pdf">Know Your Rights</a></li>
+</ul>
+<h3>Segment specific</h3>
+<h4>College students and graduates</h4>
+<ul>
+<li>What do I need to know about the Marketplace?
+<ul>
+<li><a href="/outreach-and-education/what-do-i-need-to-know.pdf">English</a> | <a href="/outreach-and-education/what-do-i-need-to-know-spanish.PDF">Spanish</a></li>
+</ul>
+</li>
+<li><a href="/outreach-and-education/collegegradfactsheet.pdf">Marketplace for College Graduates</a></li>
+</ul>
+<h4>Alternative language line</h4>
+<ul>
+<li>Get Help in Your Language
+<ul>
+<li><a href="/outreach-and-education/get-help-in-your-language.pdf">English</a> | <a href="/outreach-and-education/help-in-your-language-spanish.pdf">Spanish</a>&nbsp;</li>
+<li><a href="/outreach-and-education/other-languages.html">Other languages</a></li>
+</ul>
+</li>
+<li>Getting Help in a Language Other Than English
+<ul>
+<li><a href="/outreach-and-education/getting-help-in-a-language-other-than-english.pdf">English</a> | <a href="/outreach-and-education/getting-help-in-a-language-other-than-english-spanish.pdf">Spanish</a></li>
+</ul>
+</li>
+</ul>
+<h3>Taxes</h3>
+<h4>Fact Sheets</h4>
+<ul>
+<li>What counts as income on my Marketplace application?
+<ul>
+<li><a href="/outreach-and-education/what-counts-as-income.pdf">English</a> | <a href="/outreach-and-education/what-counts-as-income-spanish.pdf">Spanish</a></li>
+</ul>
+</li>
+</ul>
+<h4>Infographics</h4>
+<ul>
+<li>Income sources that should be included on your application
+<ul>
+<li><a href="/technical-assistance-resources/logo-and-infographics/income-sources-include.pdf">English</a> | <a href="/technical-assistance-resources/logo-and-infographics/income-sources-include-spanish.PDF">Spanish</a></li>
+</ul>
+</li>
+</ul>
+		
+		
+		
+						
+			<div class="downloads">			
+			<div class="row-fluid show-grid">
+				
+																  					
+		   </div>
+			   
+	</div>
+				
+		   	
+		   
+		
+				
+			
+		
+	
+		
+		
+	  </div>
+        <div class="span2">
+	
+		
+		
+		
+		</div><!--span4-->
+           
+    </div>
+	   
+ </div>
+    
+
+	   
+	    <div id="push"></div>
+</div>
+<!-- Page Container -->
+
+<footer id="footer" data-role="footer">
+  <div id="ft-group" class="container">
+    <div class="cms-address-bar">
+      <div class="row-fluid show-grid">
+        <div class="span6 hombbtn"> <img alt="CMS.gov Health Insurance Marketplace" src="/resources/images/logo/logo-footer.png"> </div>
+        
+        
+        <div class="span6">
+          <div class="social-media">
+            <ul>
+              <li class="text"> Stay connected with the Marketplace</li>
+              <li class="facebook"><a href="https://www.facebook.com/Healthcare.gov" title="Marketplace Facebook" class="footer_facebook_link"> <img alt="Marketplace Facebook" src="/resources/images/sprite-mp.png"> </a></li>
+              <li class="twitter"> <a href="https://twitter.com/HealthCareGov" class="footer_twitter_link"> <img alt="Marketplace Twitter" src="/resources/images/sprite-mp.png"> </a></li>
+              <li class="youtube"> <a href="http://www.youtube.com/playlist?list=PLaV7m2-zFKpgZDNCz7rZ3Xx7q2cDmpAm7" title="CMS YouTube" class="footer_youtube_link"> <img alt="CMS Youtube" src="/resources/images/sprite-mp.png"> </a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- cms-address-bar --> 
+      
+    </div>
+    <div class="footer-nav">
+      <div class="row-fluid show-grid">
+        <div class="span3">
+          <ul class="ft-nav">
+            
+                                                        <li><a href="/applications-and-forms/applications-and-forms.html">Applications, Forms, &   Notices       </a></li>
+                  <li><a href="/technical-assistance-resources/technical-assistance-resources.html">Technical Assistance Resources</a></li>
+                  <li><a href="/outreach-and-education/outreach-and-education.html">Outreach & Education</a></li>
+                        </ul>
+        </div>
+        <div class="span3">
+          <h2> Helpful Links</h2>
+          <ul>
+            <li> <a href="http://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/index.html" title="Site policies and important links">Site policies & important links</a> </li>
+            <li> <a href="http://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/Privacy-Policy.html" title="Privacy policy">Privacy policy</a> </li>
+            <li> <a title="Plain Language" href="//www.medicare.gov/about-us/plain-writing/plain-writing.html" class="titlelink">Plain language</a> </li>
+            <li> <a title="Freedom of Information Act" href="http://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/FOIA.html" class="titlelink">Freedom of Information Act</a> </li>
+            <li> <a title="No Fear Act" href="http://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/NoFearAct.html" class="titlelink">No Fear Act</a> </li>
+			<li> <a title="Nondiscrimination & Accessibility" href="http://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/CMSNondiscriminationNotice.html">Nondiscrimination & Accessibility</a> </li>
+            <li> <a title="HHS.gov" target="_blank" href="http://www.hhs.gov"> HHS.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="Inspector General" target="_blank" href="http://www.justice.gov/oig"> Inspector General <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="USA.gov" target="_blank" href="http://www.usa.gov"> USA.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+          </ul>
+        </div>
+        <div class="span3">
+          <h2>CMS & HHS Websites</h2>
+          <ul>
+            <li> <a title="Medicare.gov" target="_blank" href="http://www.medicare.gov"> Medicare.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="MyMedicare.gov" target="_blank" href="http://MyMedicare.gov"> MyMedicare.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="StopMedicareFraud.gov" target="_blank" href="http://www.stopmedicarefraud.gov"> StopMedicareFraud.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="Medicaid.gov" target="_blank" href="http://Medicaid.gov"> Medicaid.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="InsureKidsNow.gov" target="_blank" href="http://www.insurekidsnow.gov"> InsureKidsNow.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="HealthCare.gov" target="_blank" href="http://www.HealthCare.gov"> HealthCare.gov <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+            <li> <a title="HHS.gov/Open" target="_blank" href="http://www.hhs.gov/open/"> HHS.gov/Open <span class="LinkDisclaimer"> - Opens in a new window</span> </a> </li>
+          </ul>
+        </div>
+        <div class="span3"></div>
+      </div>
+    </div>
+    <!-- Footer Nav -->
+    
+    <div class="footer-address">
+      <div class="row-fluid show-grid">
+        <div class="span8">A federal government website managed by the Centers for Medicare &amp; Medicaid Services<br>
+          7500 Security Boulevard, Baltimore, MD 21244
+          <div class="vcard"> <a href="/" class="fn org url">Centers for Medicare &amp; Medicaid Services</a>
+            <div class="adr">
+              <div class="street-address"> 7500 Security Boulevard </div>
+              <span class="locality">Baltimore</span>, <abbr title="Maryland" class="region"> MD</abbr><span class="postal-code">21244</span>
+              <div class="country-name"> USA</div>
+            </div>
+          </div>
+          <!-- vcard --> 
+          
+        </div>
+        <div class="span4">
+          <div id="footer_hhs_logo"> <a id="footer_hhs_logo_link" title="Health and Human Services home page" href="http://www.hhs.gov/"> <img alt="Health and Human Services home page" src="/resources/images/logo/logo-hhs-footer.png"> </a> </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script type="text/javascript" src="/resources/js/jquery.js"></script> 
+<script type="text/javascript" src="/resources/js/modernizr.js"></script>
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script type="text/javascript" src="/resources/js/script.js"></script>
+<script type="text/javascript" src="/resources/js/jquery.validate.min.js"></script>
+
+<script type="text/javascript" src="/resources/js/additional-methods.min.js"></script>
+<script type="text/javascript" src="/resources/js/jquery.maxlenth.js"></script>
+<script type="text/javascript" src="/resources/js/cacform.js"></script>
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4da5b2c47a9f9bd7"></script>
+
+</body>
+</html>
+
